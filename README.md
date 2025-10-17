@@ -31,10 +31,11 @@ Atualmente sou criador do SpecterVip, um SaaS completo que integra chat, drive, 
 
 
 ## 🎓 Formação
-- Tecnólogo em Gestão da Tecnologia da Informação
+- Graduação em Gestão da Tecnologia da Informação
 - Pós graduação em Cibersegurança
-- MBA em Engenharia de Software
-- Cursando MBA em Engenharia da Computação
+- Cursando MBA em Engenharia de Software
+- Cursando MBA em Administração de Empresas
+- Cursando PÓS em Inteligência Artificial para Desenvolvedores
 
 ---
 
